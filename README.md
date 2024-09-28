@@ -3,9 +3,9 @@
   一個專門用於Twitch直播中的聊天機器人，可以打字互動來改變直播畫面上的人物動作，或是在玩遊戲時可以做排隊、查看、取消等功能，利用了Twitch官方的API去讀聊天室的內容，
   動畫和其他部分則是使用C#去做處理。目前只能針對特定字串做處理或互動，預計未來要融合AI語意判斷來讓體驗更方便。
 ### 互動人物範例
-![初始狀態](https://github.com/Franky-Hsiao/twitch_bot/blob/master/twitchBot/image/chibiwalk.gif)
-![變化後狀態A](https://github.com/Franky-Hsiao/twitch_bot/blob/master/twitchBot/image/chibiConfuse.gif)
-![變化後狀態B](https://github.com/Franky-Hsiao/twitch_bot/blob/master/twitchBot/image/chibiNoHeadwear.gif)
+![初始狀態](https://github.com/Franky-Hsiao/twitch_bot/blob/main/twitchBot/image/chibiwalk.gif)
+![變化後狀態A](https://github.com/Franky-Hsiao/twitch_bot/blob/main/twitchBot/image/chibiConfuse.gif)
+![變化後狀態B](https://github.com/Franky-Hsiao/twitch_bot/blob/main/twitchBot/image/chibiNoHeadwear.gif)
 
 ### 特色
 
