@@ -1,0 +1,14 @@
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Release\twitchBot.exe.config
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Release\twitchBot.exe.manifest
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Release\twitchBot.application
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Release\twitchBot.exe
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Release\twitchBot.pdb
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.Form1.resources
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.Properties.Resources.resources
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.csproj.GenerateResource.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.exe.manifest
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.application
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.exe
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Release\twitchBot.pdb

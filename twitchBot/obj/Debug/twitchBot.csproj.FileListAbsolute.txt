@@ -1,0 +1,14 @@
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Debug\twitchBot.exe.config
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Debug\twitchBot.exe.manifest
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Debug\twitchBot.application
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Debug\twitchBot.exe
+C:\Users\frank\Documents\twitchBot\twitchBot\bin\Debug\twitchBot.pdb
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.Form1.resources
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.Properties.Resources.resources
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.csproj.GenerateResource.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.exe.manifest
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.application
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.exe
+C:\Users\frank\Documents\twitchBot\twitchBot\obj\Debug\twitchBot.pdb
